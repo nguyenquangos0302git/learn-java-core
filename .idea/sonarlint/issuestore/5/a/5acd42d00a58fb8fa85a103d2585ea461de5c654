@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8í¯Ï¡ê1J$70aa2dc1-5b2f-4a0a-bf8b-0c36806b9197
+r	java:S106	"+Replace this use of System.out by a logger.(ì«‰½øÿÿÿÿ8£ã„Êê1J$e3e5f305-cf09-40e3-86f8-538589ee1d56
+q
+java:S1128".Remove this unused import 'java_8.Flattening'.(Ì»â‹8Ìá®Êê1J$ae66ecab-7aa4-4884-8028-149e71b9fec1
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8Ìá®Êê1J$ee25cce5-3d42-4bfd-882f-155de72e574d
