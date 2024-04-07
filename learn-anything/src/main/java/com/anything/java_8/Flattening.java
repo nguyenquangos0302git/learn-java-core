@@ -1,8 +1,7 @@
-package java_8;
+package com.anything.java_8;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.*;

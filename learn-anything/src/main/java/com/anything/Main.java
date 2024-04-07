@@ -1,12 +1,9 @@
-import date_time.CheckTimeIsBetween;
-import java_8.Flattening;
+package com.anything;
 
-import java.util.Map;
+import com.anything.date_time.CheckTimeIsBetween;
 
 public class Main {
-
     public static void main(String[] args) {
         System.out.println(CheckTimeIsBetween.checkTimeIsBetweenWay2());
     }
-
 }
