@@ -30,3 +30,5 @@ p
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 w
 G.idea/sonarlint/issuestore/7/f/7f0d6c7b4bc10df84ed868c8b1b93a5dd6669be6,4\4\44f1dae8b1b0967a6161a4ff29c162c79f433b4d
+w
+Glearn-anything/src/main/java/com/anything/collection/SetCollection.java,7\e\7e93b125e37351608e4461d4fff6a60461493f62
