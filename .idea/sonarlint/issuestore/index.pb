@@ -32,3 +32,11 @@ w
 G.idea/sonarlint/issuestore/7/f/7f0d6c7b4bc10df84ed868c8b1b93a5dd6669be6,4\4\44f1dae8b1b0967a6161a4ff29c162c79f433b4d
 w
 Glearn-anything/src/main/java/com/anything/collection/SetCollection.java,7\e\7e93b125e37351608e4461d4fff6a60461493f62
+s
+Clearn-anything/src/main/java/com/anything/character/Characters.java,3\2\32bfdf2abf514d820df8b849b0f6107e007f8488
+w
+Glearn-anything/src/main/java/com/anything/algorithm/MergerInterval.java,7\f\7faab442a0703c41ab48e61565de1b8daf038b8c
+q
+Alearn-anything/src/main/java/com/anything/algorithm/Interval.java,9\b\9b4812f07bf4e00f3b0729c6dac994462dee339e
+~
+Nlearn-anything/src/main/java/com/anything/java_8/MapKeyWithDuplicateValue.java,8\f\8f23e5038c17eaefa1684143d68f8d7fdda52afb
