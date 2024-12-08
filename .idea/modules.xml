@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/learn-anything/learn-anything.iml" filepath="$PROJECT_DIR$/learn-anything/learn-anything.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-java-core.iml" filepath="$PROJECT_DIR$/learn-java-core.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-java-core.iml" filepath="$PROJECT_DIR$/.idea/learn-java-core.iml" />
+>>>>>>> 31c36369ec5fee3409e75136891dc593d3f84818
     </modules>
   </component>
 </project>
